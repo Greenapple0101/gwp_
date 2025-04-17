@@ -100,7 +100,7 @@ gwp-analysis/
 
 ---
 
-> 💬 문의 : seoyeon.baek@example.com
+> 💬 문의 : yorange50@gmail.com
 ```
 
 1. 이 내용을 **README.md** 로 저장  
